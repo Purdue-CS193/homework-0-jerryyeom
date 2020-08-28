@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- One of my favorite thing about CS 193 is that I get to use new things like GIThub
+- Another one is that the class is not overloading me and that I really like this kind of projects
 
 1. Numbered
 2. List
